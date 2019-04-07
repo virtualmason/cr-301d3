@@ -6,9 +6,9 @@ Completion of the following setup tasks are all to be submitted in a single Canv
 
 ### Create Directory
 
-Create a directory `~/codefellows/301/` to hold your work for this course, by running the command:
+Create a directory `~/deltav/301/` to hold your work for this course, by running the command:
 ```
-mkdir -p ~/codefellows/301
+mkdir -p ~/deltav/301
 ```
 
 ### Install Heroku CLI

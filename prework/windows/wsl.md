@@ -4,9 +4,9 @@ This doc assumes you are using the WSL in the way described in the 201 prework, 
 
 ## Create Directory
 
-Create a directory `$wr/codefellows/301/` to hold your work for this course, by running the command:
+Create a directory `$wr/deltav/301/` to hold your work for this course, by running the command:
 ```
-mkdir -p $wr/codefellows/301
+mkdir -p $wr/deltav/301
 ```
 
 ## Install Heroku CLI
