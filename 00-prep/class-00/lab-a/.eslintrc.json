@@ -21,7 +21,7 @@
     "no-undefined": "off",
     "indent": ["error", 2],
     "quotes": ["warn", "single", {"allowTemplateLiterals": true}],
-    "no-multi-spaces": ["warn", {"exceptions": { "VariableDeclarator": true }}],
+    "no-multi-spaces": ["warn", {"exceptions": { "constiableDeclarator": true }}],
     "no-trailing-spaces": "warn",
     "new-cap": "warn",
     "no-redeclare": ["error", { "builtinGlobals": true }],
